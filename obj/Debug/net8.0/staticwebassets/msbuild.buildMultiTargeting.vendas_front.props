@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\vendas_front.props" />
+</Project>
