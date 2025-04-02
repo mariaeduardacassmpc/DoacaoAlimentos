@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\mariaeduarda\\facul\\vendas_front\\vendas_front\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\mariaeduarda\\facul\\vendas_front\\vendas_front\\obj\\Debug\\net8.0\\scopedcss\\bundle\\vendas_front.styles.css",
+      "PackagePath": "staticwebassets\\vendas_front.styles.css"
+    },
+    {
+      "Id": "C:\\mariaeduarda\\facul\\vendas_front\\vendas_front\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\mariaeduarda\\facul\\vendas_front\\vendas_front\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\mariaeduarda\\facul\\vendas_front\\vendas_front\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\mariaeduarda\\facul\\vendas_front\\vendas_front\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\mariaeduarda\\facul\\vendas_front\\vendas_front\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\mariaeduarda\\facul\\vendas_front\\vendas_front\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\mariaeduarda\\facul\\vendas_front\\vendas_front\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.vendas_front.props",
+      "PackagePath": "build\\vendas_front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.vendas_front.props",
+      "PackagePath": "buildMultiTargeting\\vendas_front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.vendas_front.props",
+      "PackagePath": "buildTransitive\\vendas_front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.vendas_front.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.vendas_front.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
